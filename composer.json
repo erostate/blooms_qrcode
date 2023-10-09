@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/routing": "^6.3",
+      "ext-pdo": "*"
+    }
+}
